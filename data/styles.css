@@ -53,6 +53,9 @@
 ._文本段落 {
   text-align:left;
 }
+.horizontal_line {
+  font-size:14px;
+}
 ._文本链接 {
   color:#0000FF;
 }
@@ -75,10 +78,10 @@
   line-height:normal;
 }
 ._形状 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
   font-style:normal;
-  font-size:13px;
+  font-size:14px;
   color:#333333;
   text-align:center;
   line-height:normal;
@@ -109,6 +112,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 ._文本链接1 {
   color:#0000FF;
 }
@@ -128,4 +135,15 @@
 ._鼠标按下文本链接 {
 }
 .icon {
+}
+.box_11 {
+}
+.box_12 {
+  font-size:16px;
+  text-align:center;
+}
+.line1 {
+  font-size:14px;
+}
+.line2 {
 }
